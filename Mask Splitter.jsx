@@ -1,6 +1,4 @@
 /**
- * Antigravity - Mask Splitter & Cropper for After Effects (Final Version)
- * 
  * Instructions:
  * 1. Select a layer with multiple masks on it.
  * 2. Run this script.
